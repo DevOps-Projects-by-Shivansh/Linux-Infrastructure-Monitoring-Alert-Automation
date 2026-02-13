@@ -1,0 +1,6 @@
+*.log
+*.env
+*.tfstate
+*.tfstate.backup
+node_modules/
+.DS_Store
